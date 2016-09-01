@@ -1,0 +1,212 @@
+{
+	"comment": "",
+	"ignore": "appengine test",
+	"package": [
+		{
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "32055c351ea8b00b96d70f28db48d9840feaf0ec",
+			"revisionTime": "2016-07-12T20:17:32-04:00"
+		},
+		{
+			"path": "github.com/cheggaaa/pb",
+			"revision": "73ae1d68fe0bd482ab11913a9828634f795b987f",
+			"revisionTime": "2016-07-13T13:44:25+03:00"
+		},
+		{
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "01aeca54ebda6e0fbfafd0a524d234159c05ec20",
+			"revisionTime": "2016-07-05T13:30:06-07:00"
+		},
+		{
+			"path": "github.com/dgrijalva/jwt-go/request",
+			"revision": "01aeca54ebda6e0fbfafd0a524d234159c05ec20",
+			"revisionTime": "2016-07-05T13:30:06-07:00"
+		},
+		{
+			"path": "github.com/dustin/go-humanize",
+			"revision": "fef948f2d241bd1fd0631108ecc2c9553bae60bf",
+			"revisionTime": "2016-06-23T09:40:21+08:00"
+		},
+		{
+			"path": "github.com/elazarl/go-bindata-assetfs",
+			"revision": "57eb5e1fc594ad4b0b1dbea7b286d299e0cb43c2",
+			"revisionTime": "2015-12-24T06:54:52+02:00"
+		},
+		{
+			"path": "github.com/fatih/color",
+			"revision": "87d4004f2ab62d0d255e0a38f1680aa534549fe3",
+			"revisionTime": "2016-06-10T14:06:02+03:00"
+		},
+		{
+			"path": "github.com/gorilla/context",
+			"revision": "aed02d124ae4a0e94fea4541c8effd05bf0c8296",
+			"revisionTime": "2016-05-25T13:33:19-07:00"
+		},
+		{
+			"path": "github.com/gorilla/handlers",
+			"revision": "66e6c6f01d8da976ee113437745ca029c2b585a6",
+			"revisionTime": "2016-04-10T11:53:17-07:00"
+		},
+		{
+			"path": "github.com/gorilla/mux",
+			"revision": "9fa818a44c2bf1396a17f9d5a3c0f6dd39d2ff8e",
+			"revisionTime": "2016-06-05T16:35:21-07:00"
+		},
+		{
+			"path": "github.com/gorilla/rpc/v2",
+			"revision": "bd3317b8f6704b1b40e4e705ec9e987a535cd5d3",
+			"revisionTime": "2016-05-16T23:23:31-07:00"
+		},
+		{
+			"path": "github.com/gorilla/rpc/v2/json2",
+			"revision": "bd3317b8f6704b1b40e4e705ec9e987a535cd5d3",
+			"revisionTime": "2016-05-16T23:23:31-07:00"
+		},
+		{
+			"path": "github.com/hashicorp/go-version",
+			"revision": "7e3c02b30806fa5779d3bdfc152ce4c6f40e7b38",
+			"revisionTime": "2016-01-19T13:13:26-08:00"
+		},
+		{
+			"path": "github.com/klauspost/cpuid",
+			"revision": "349c675778172472f5e8f3a3e0fe187e302e5a10",
+			"revisionTime": "2016-01-06T11:44:51+01:00"
+		},
+		{
+			"path": "github.com/klauspost/reedsolomon",
+			"revision": "467733eb9c209042fb37d2074a5b6be33a529be0",
+			"revisionTime": "2016-07-06T21:06:00+02:00"
+		},
+		{
+			"path": "github.com/mattn/go-colorable",
+			"revision": "9056b7a9f2d1f2d96498d6d146acd1f9d5ed3d59",
+			"revisionTime": "2016-06-03T00:08:27+09:00"
+		},
+		{
+			"path": "github.com/mattn/go-isatty",
+			"revision": "56b76bdf51f7708750eac80fa38b952bb9f32639",
+			"revisionTime": "2015-12-11T09:06:21+09:00"
+		},
+		{
+			"path": "github.com/minio/blake2b-simd",
+			"revision": "25efc542f2c5064cf312cdca043790a7af861c4c",
+			"revisionTime": "2016-07-06T10:29:24+02:00"
+		},
+		{
+			"path": "github.com/minio/cli",
+			"revision": "c4a07c7b68db77ccd119183fb1d01dd5972434ab",
+			"revisionTime": "2015-11-18T20:00:48-08:00"
+		},
+		{
+			"checksumSHA1": "0raNaLP/AhxXhEeB5CdSnbED3O4=",
+			"path": "github.com/minio/dsync",
+			"revision": "1f615ccd013d35489becfe710e0ba7dce98b59e5",
+			"revisionTime": "2016-08-29T17:06:27Z"
+		},
+		{
+			"path": "github.com/minio/go-homedir",
+			"revision": "0b1069c753c94b3633cc06a1995252dbcc27c7a6",
+			"revisionTime": "2016-02-15T17:25:11+05:30"
+		},
+		{
+			"path": "github.com/minio/mc/pkg/console",
+			"revision": "db6b4f13442b26995f04b3b2b31b006cae7786e6",
+			"revisionTime": "2016-02-29T08:42:30-08:00"
+		},
+		{
+			"checksumSHA1": "0OZaeJPgMlA2Txn+1yeAIwEpJvM=",
+			"path": "github.com/minio/minio-go/pkg/policy",
+			"revision": "a2e27c84cd20b86cd781b76639781d6366235d0c",
+			"revisionTime": "2016-08-23T00:31:21Z"
+		},
+		{
+			"checksumSHA1": "A8QOw1aWwc+RtjGozY0XeS5varo=",
+			"path": "github.com/minio/minio-go/pkg/set",
+			"revision": "9e734013294ab153b0bdbe182738bcddd46f1947",
+			"revisionTime": "2016-08-18T00:31:20Z"
+		},
+		{
+			"path": "github.com/minio/miniobrowser",
+			"revision": "2e74c097f04fd7927d46fee6482d41e7b5cbf830",
+			"revisionTime": "2016-07-02T02:15:29-07:00"
+		},
+		{
+			"checksumSHA1": "GOSe2XEQI4AYwrMoLZu8vtmzkJM=",
+			"path": "github.com/minio/redigo/redis",
+			"revision": "5e2117cd32d677a36dcd8c9c83776a065555653b",
+			"revisionTime": "2016-07-24T00:05:56Z"
+		},
+		{
+			"checksumSHA1": "i8Hl0yGP1jqorMgfFMoJCItnI38=",
+			"path": "github.com/minio/sha256-simd",
+			"revision": "6f50cd1d784b2bea46167b6929f16c0d12eefbfb",
+			"revisionTime": "2016-08-16T22:25:11Z"
+		},
+		{
+			"path": "github.com/pkg/profile",
+			"revision": "c78aac22bd43883fd2817833b982153dcac17b3b",
+			"revisionTime": "2016-05-18T16:56:57+10:00"
+		},
+		{
+			"path": "github.com/rs/cors",
+			"revision": "a62a804a8a009876ca59105f7899938a1349f4b3",
+			"revisionTime": "2016-06-18T04:49:35+05:30"
+		},
+		{
+			"path": "github.com/rs/xhandler",
+			"revision": "ed27b6fd65218132ee50cd95f38474a3d8a2cd12",
+			"revisionTime": "2016-06-18T12:32:21-07:00"
+		},
+		{
+			"checksumSHA1": "u0hXGADM3JDza8YjgiyNJpAJk8g=",
+			"path": "github.com/skyrings/skyring-common/tools/uuid",
+			"revision": "762fd2bfc12e766d90478d638255981ab1966a3d",
+			"revisionTime": "2016-03-24T19:44:43+05:30"
+		},
+		{
+			"checksumSHA1": "rKV8YLkXpeNG1Oix8hlYqVsEFb4=",
+			"path": "github.com/streadway/amqp",
+			"revision": "2e25825abdbd7752ff08b270d313b93519a0a232",
+			"revisionTime": "2016-03-11T21:55:03Z"
+		},
+		{
+			"path": "golang.org/x/crypto/bcrypt",
+			"revision": "7b85b097bf7527677d54d3220065e966a0e3b613",
+			"revisionTime": "2015-11-30T17:07:01-05:00"
+		},
+		{
+			"path": "golang.org/x/crypto/blowfish",
+			"revision": "7b85b097bf7527677d54d3220065e966a0e3b613",
+			"revisionTime": "2015-11-30T17:07:01-05:00"
+		},
+		{
+			"path": "golang.org/x/net/context",
+			"revision": "a728288923b47049b2ce791836767ffbe964a5bd",
+			"revisionTime": "2016-07-07T15:24:52-07:00"
+		},
+		{
+			"path": "gopkg.in/check.v1",
+			"revision": "11d3bc7aa68e238947792f30573146a3231fc0f1",
+			"revisionTime": "2015-07-29T10:04:31+02:00"
+		},
+		{
+			"checksumSHA1": "eC4OV7g1tug838fPWrwflstr/TM=",
+			"path": "gopkg.in/olivere/elastic.v3",
+			"revision": "f7ae701daf3abe5dfb99f57b3f47738ec93c9c26",
+			"revisionTime": "2016-07-16T10:42:39Z"
+		},
+		{
+			"checksumSHA1": "lLdKOn9RPtFoTtPUNq5+sIInAiE=",
+			"path": "gopkg.in/olivere/elastic.v3/backoff",
+			"revision": "f7ae701daf3abe5dfb99f57b3f47738ec93c9c26",
+			"revisionTime": "2016-07-16T10:42:39Z"
+		},
+		{
+			"checksumSHA1": "XQg6xG6l15Ke43KolthYYnVDCYo=",
+			"path": "gopkg.in/olivere/elastic.v3/uritemplates",
+			"revision": "f7ae701daf3abe5dfb99f57b3f47738ec93c9c26",
+			"revisionTime": "2016-07-16T10:42:39Z"
+		}
+	],
+	"rootPath": "github.com/minio/minio"
+}
